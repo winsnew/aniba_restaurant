@@ -1,0 +1,46 @@
+db aniba:
+1. our story: 
+	- title
+1.1 our story content:
+	- our_story_id
+	- country
+	- top desc
+	- desc
+2. our chef:
+	- name
+	- position
+	- quote
+	- desc
+	- image
+	- image-mobile
+3. reservation:
+	- title
+4. reservation-content
+	- reservation_id
+	- title
+	- opening hour
+	- desc
+	- image background
+	- image background mobile
+5. private events
+	- title
+	- desc 1
+	- desc 2
+	- image
+	- image mobile
+6.contact us
+	- title
+	- text
+	- background
+	- bsckground-mobile 
+7. press us content
+	- title
+	- sub title 
+	- image
+8. sosmed
+	- name
+	- icon
+	- link
+9. contact
+	- name
+
